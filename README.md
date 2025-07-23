@@ -1,5 +1,5 @@
 
-# 📊 **Super Store Sales Power BI Dashboard**
+# 📊 **Super Store Sales Dashboard**
 
 ## 🧩 **Problem Statement**
 A retail superstore with multi-category product offerings (Furniture, Office Supplies, and Technology) across the United States needed a centralized dashboard to:
