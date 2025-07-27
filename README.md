@@ -6,7 +6,7 @@ A retail superstore with multi-category product offerings (Furniture, Office Sup
 
 - Track and monitor sales and profitability across regions, segments, and states.
 - Identify high-performing and underperforming product categories and shipping methods.
-- Understand customer buying preferences including payment methods and order volumes.
+- Understand customer buying preferences, including payment methods and order volumes.
 - Analyze sales and profit trends over time and evaluate overall business health.
 
 ## 🎯 **Business Objective**
